@@ -1,0 +1,18 @@
+[{
+    "date": "2022-01-01",
+    "temperature": 110
+},
+{
+    "date": "2022-01-02",
+    "temperature": 120
+},
+{
+    "date": "2022-01-03",
+    "temperature": 130
+},
+{
+    "date": "2022-01-04",
+    "temperature": 140
+}
+
+]
